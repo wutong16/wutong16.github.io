@@ -1,6 +1,0 @@
-- [x] the ranking of papers
-- [x] the offset / padding / size of the page
-- [x] a more neat honors and reward part
-- [x] bold font for my name
-- [ ] higher resolution for pub images
-- [ ] 2/3 width of the whole page
