@@ -25,7 +25,7 @@ publication_short: In *ECCV*
 abstract: We present a new loss function called Distribution-Balanced Loss for the multi-label recognition problems that exhibit long-tailed class distributions. Compared to conventional single-label classification problem, multi-label recognition problems are often more challenging due to two significant issues, namely the co-occurrence of labels and the dominance of negative labels (when treated as multiple binary classification problems). The Distribution-Balanced Loss tackles these issues through two key modifications to the standard binary cross-entropy loss, 1) a new way to re-balance the weights that takes into account the impact caused by label co-occurrence, and 2) a negative tolerant regularization to mitigate the over-suppression of negative labels. Experiments on both Pascal VOC and COCO show that the models trained with this new loss function achieve significant performance gains over existing methods.
 
 # Summary. An optional shortened abstract.
-summary: Accepted by European Conference on Computer Vision (ECCV), 2020, as **Spotlight** <br> ***Tong Wu**, [Qingqiu Huang](http://qqhuang.cn/), [Ziwei Liu](https://liuziwei7.github.io/), [Yu Wang](http://nicsefc.ee.tsinghua.edu.cn/people/yu-wang/), [Dahua Lin](http://dahua.me/)*
+summary: Accepted by European Conference on Computer Vision (ECCV), 2020, as **<font color='#FF5722'>Spotlight</font>** <br> ***Tong Wu**, [Qingqiu Huang](http://qqhuang.cn/), [Ziwei Liu](https://liuziwei7.github.io/), [Yu Wang](http://nicsefc.ee.tsinghua.edu.cn/people/yu-wang/), [Dahua Lin](http://dahua.me/)*
 
 tags:
 - Source Themes

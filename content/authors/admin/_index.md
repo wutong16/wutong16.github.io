@@ -18,11 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 3d vision, long-tailed recognition, and robustness. 
 
 interests:
-- Computer Vision
-- Deep Learning
+# - Deep Learning
 
 # education:
 #   courses:
@@ -54,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "wutong16.thu@gmail.com"
@@ -66,4 +65,10 @@ user_groups:
 - Visitors
 ---
 
-Tong Wu is Ph.D. student in [Multi-Media Lab(MMLab)](http://mmlab.ie.cuhk.edu.hk/), The [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.me/). She got her bachelor’s degree in the [Department of Electronic Engineering](http://www.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2020. Her research interests include but not limited to Computer Vision and Deep Learning.
+Tong Wu is Ph.D. student in [Multi-Media Lab(MMLab)](http://mmlab.ie.cuhk.edu.hk/) at [CUHK](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.me/). She also works closely with Prof. [Ziwei Liu](https://liuziwei7.github.io/) at [NTU](https://www.ntu.edu.sg/Pages/home.aspx). She got her bachelor’s degree in the [EE Department](http://www.ee.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2020, working with Professor. [Yu Wang](http://nicsefc.ee.tsinghua.edu.cn/people/yu-wang/) and Prof. [Jiansheng Chen](https://jschenthu.weebly.com/). Her research interests include but not limited to 3D Vision, Long-tailed Recognition, and Robustness.
+
+**News**
+- \[2021-03\] Two papers accepted to [CVPR 2021](http://cvpr2021.thecvf.com/) (both orals).
+- \[2020-07\] Two papers accepted to [ECCV 2020](https://eccv2020.eu/) (1 spotlight, 1 poster).
+- \[2020-06\] Happy graduation!!
+- \[2020-04\] Awarded Hong Kong PhD Fellowship Scheme ([HKPFS](https://cerg1.ugc.edu.hk/hkpfs/apply.html)).
