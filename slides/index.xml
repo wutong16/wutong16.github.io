@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides | Tong WU</title><link>https://github.com/wutong16.github.io/slides/</link><atom:link href="https://github.com/wutong16.github.io/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate><item><title>Slides</title><link>https://github.com/wutong16.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://github.com/wutong16.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-academic">Create slides in Markdown with Academic&lt;/h1>
-&lt;p>&lt;a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic&lt;/a> | &lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides | Academic</title><link>/slides/</link><atom:link href="/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate><item><title>Slides</title><link>/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
 &lt;ul>
@@ -92,11 +92,11 @@ Three
 &lt;/ul>
 &lt;hr>
 &lt;section data-noprocess data-shortcode-slide
-data-background-image="/img/boards.jpg"
+data-background-image="/media/boards.jpg"
 >
 &lt;h2 id="custom-slide">Custom Slide&lt;/h2>
 &lt;p>Customize the slide style and background&lt;/p>
-&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
 {{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
 {{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
 &lt;/code>&lt;/pre>
@@ -112,5 +112,5 @@ color: navy;
 &lt;/code>&lt;/pre>
 &lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
-&lt;p>&lt;a href="https://spectrum.chat/academic" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://sourcethemes.com/academic/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item></channel></rss>

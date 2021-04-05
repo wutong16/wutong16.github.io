@@ -166,7 +166,7 @@
         return;
       b2 = document.head || document.getElementsByTagName("head")[0], a2 = document.createElement("style"), a2.type = "text/css", e2 === "top" ? b2.firstChild ? b2.insertBefore(a2, b2.firstChild) : b2.appendChild(a2) : b2.appendChild(a2), a2.styleSheet ? a2.styleSheet.cssText = c2 : a2.appendChild(document.createTextNode(c2));
     }
-    R = ".medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)!important}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}", T(R), Q = x, P = true, t = "production", E = false;
+    R = ".medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)!important}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}", T(R), Q = x, P = true, t = "production", E = true;
     function q(b2 = false) {
       let a2 = [];
       [].push.apply(a2, document.getElementsByClassName("language-mermaid"));
@@ -476,6 +476,57 @@
       }, 300);
     }), $(window).resize(function() {
       clearTimeout(v), v = setTimeout(D, 200);
+    });
+  })(), (() => {
+    var e = {authors: "Authors", event: "Events", post: "Posts", project: "Projects", publication: "Publications", slides: "Slides"}, f = {no_results: "No results found", placeholder: "Search...", results: "results found"}, c = {indexURI: "/index.json", minLength: 1, threshold: 0.3}, d = {shouldSort: true, includeMatches: true, tokenize: true, threshold: c.threshold, location: 0, distance: 100, maxPatternLength: 32, minMatchCharLength: c.minLength, keys: [{name: "title", weight: 0.99}, {name: "summary", weight: 0.6}, {name: "authors", weight: 0.5}, {name: "content", weight: 0.2}, {name: "tags", weight: 0.5}, {name: "categories", weight: 0.5}]}, a = 60;
+    function g(a2) {
+      return decodeURIComponent((location.search.split(a2 + "=")[1] || "").split("&")[0]).replace(/\+/g, " ");
+    }
+    function h(a2) {
+      history.replaceState && window.history.replaceState({path: a2}, "", a2);
+    }
+    function b(b2, c2) {
+      let a2 = $("#search-query").val();
+      if (a2.length < 1 && ($("#search-hits").empty(), $("#search-common-queries").show()), !b2 && a2.length < d.minMatchCharLength)
+        return;
+      $("#search-hits").empty(), $("#search-common-queries").hide(), i(a2, c2);
+      let e2 = window.location.protocol + "//" + window.location.host + window.location.pathname + "?q=" + encodeURIComponent(a2) + window.location.hash;
+      h(e2);
+    }
+    function i(b2, c2) {
+      let a2 = c2.search(b2);
+      a2.length > 0 ? ($("#search-hits").append('<h3 class="mt-0">' + a2.length + " " + f.results + "</h3>"), j(b2, a2)) : $("#search-hits").append('<div class="search-no-results">' + f.no_results + "</div>");
+    }
+    function j(b2, c2) {
+      $.each(c2, function(j2, c3) {
+        let f2 = c3.item.section, g2 = "", h2 = "", i2 = [];
+        ["publication", "event"].includes(f2) ? g2 = c3.item.summary : g2 = c3.item.content, d.tokenize ? i2.push(b2) : $.each(c3.matches, function(c4, b3) {
+          if (b3.key == "content") {
+            let c5 = b3.indices[0][0] - a > 0 ? b3.indices[0][0] - a : 0, d2 = b3.indices[0][1] + a < g2.length ? b3.indices[0][1] + a : g2.length;
+            h2 += g2.substring(c5, d2), i2.push(b3.value.substring(b3.indices[0][0], b3.indices[0][1] - b3.indices[0][0] + 1));
+          }
+        }), h2.length < 1 && (h2 += c3.item.summary);
+        let l = $("#search-hit-fuse-template").html();
+        f2 in e && (f2 = e[f2]);
+        let m = {key: j2, title: c3.item.title, type: f2, relpermalink: c3.item.relpermalink, snippet: h2}, n = k(l, m);
+        $("#search-hits").append(n), $.each(i2, function(b3, a2) {
+          $("#summary-" + j2).mark(a2);
+        });
+      });
+    }
+    function k(a2, c2) {
+      let b2, d2, e2;
+      for (b2 in c2)
+        d2 = "\\{\\{\\s*" + b2 + "\\s*\\}\\}", e2 = new RegExp(d2, "g"), a2 = a2.replace(e2, c2[b2]);
+      return a2;
+    }
+    typeof Fuse == "function" && $.getJSON(c.indexURI, function(e2) {
+      let a2 = new Fuse(e2, d), c2 = g("q");
+      c2 && ($("body").addClass("searching"), $(".search-results").css({opacity: 0, visibility: "visible"}).animate({opacity: 1}, 200), $("#search-query").val(c2), $("#search-query").focus(), b(true, a2)), $("#search-query").keyup(function(c3) {
+        clearTimeout($.data(this, "searchTimer")), c3.keyCode == 13 ? b(true, a2) : $(this).data("searchTimer", setTimeout(function() {
+          b(false, a2);
+        }, 250));
+      });
     });
   })();
 })();
