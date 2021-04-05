@@ -6,6 +6,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[search]`).
 
 ############################
+# UPDATE
+############################
+media_dir = "img"
+
+############################
 ## Theme
 ############################
 

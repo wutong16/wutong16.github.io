@@ -14,8 +14,10 @@ role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: MMLab@CUHK
+- title: MMLab@CUHK
   url: ""
+# - name: MMLab@CUHK
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3d vision, long-tailed recognition, and robustness. 
