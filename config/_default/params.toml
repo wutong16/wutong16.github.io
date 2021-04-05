@@ -10,6 +10,8 @@
 ############################
 media_dir = "img"
 
+
+
 ############################
 ## Theme
 ############################
@@ -292,6 +294,12 @@ plugins_js  = []
 ############################
 ## Content Management System
 ############################
+
+# Content Management System
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = false
+  
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
