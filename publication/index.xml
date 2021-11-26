@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Balanced Chamfer Distance as a Comprehensive Metric for Point Cloud Completion</title>
-      <link>/publication/7_neurips2021_fadi/</link>
+      <title>Density-aware Chamfer Distance as a Comprehensive Metric for Point Cloud Completion</title>
+      <link>/publication/7_neurips2021_dcd/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/7_neurips2021_fadi/</guid>
+      <guid>/publication/7_neurips2021_dcd/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Few-Shot Object Detection via Association and DIscrimination</title>
-      <link>/publication/7_neurips2021_bcd/</link>
+      <link>/publication/7_neurips2021_fadi/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/7_neurips2021_bcd/</guid>
+      <guid>/publication/7_neurips2021_fadi/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
