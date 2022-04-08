@@ -38,9 +38,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Few-Shot Object Detection via Association and DIscrimination</title>
-      <link>/publication/7_neurips2021_fadi/</link>
+      <link>/publication/8_neurips2021_fadi/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/7_neurips2021_fadi/</guid>
+      <guid>/publication/8_neurips2021_fadi/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -89,6 +89,30 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>/publication/6_cvpr2021_theoratical_adv/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/publication/6_cvpr2021_theoratical_adv/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shaping Deep Feature Space towards Gaussian Mixture for Visual Classification</title>
+      <link>/publication/9_tpami2022_gaussian/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/9_tpami2022_gaussian/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
