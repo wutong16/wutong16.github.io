@@ -357,6 +357,7 @@ collections:
     widget: list
   - label: External link (optional - replaces link to project page)
     name: external_link
+    required: false
     widget: string
   - fields:
     - label: Link
@@ -828,5 +829,6 @@ collections:
     name: terms
   label: Pages
   name: pages
+local_backend: false
 media_folder: assets/media
 public_folder: /media
