@@ -5,12 +5,116 @@
     <link>/tag/source-themes/</link>
       <atom:link href="/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Source Themes</title>
       <link>/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Imagine360: Immersive 360 Video Generation from Perspective Anchor</title>
+      <link>/publication/28_imagine360/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/28_imagine360/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models</title>
+      <link>/publication/30_fiva/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/30_fiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models</title>
+      <link>/publication/29_loki/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/29_loki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way</title>
+      <link>/publication/24_broadway/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/24_broadway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion</title>
+      <link>/publication/22_3dtopiaxl/</link>
+      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/22_3dtopiaxl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation</title>
+      <link>/publication/27_layerpano3d/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/27_layerpano3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images</title>
+      <link>/publication/26_taylor3d/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/26_taylor3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data</title>
+      <link>/publication/25_boostrap3d/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/25_boostrap3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MotionClone: Training-Free Motion Cloning for Controllable Video Generation</title>
+      <link>/publication/23_motionclone/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/23_motionclone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials</title>
+      <link>/publication/19_make_it_real/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/19_make_it_real/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation</title>
+      <link>/publication/31_omni6d/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/31_omni6d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance</title>
+      <link>/publication/20_comboverse/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/20_comboverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3DTopia: Large Text-to-3D Generation Model with Hybrid Diffusion Priors</title>
+      <link>/publication/21_3dtopia/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/21_3dtopia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation</title>
