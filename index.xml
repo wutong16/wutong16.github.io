@@ -5,12 +5,52 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Tong Wu&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tong Wu&#39;s Homepage</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Video World Models with Long-term Spatial Memory</title>
+      <link>/publication/36_spmem/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/36_spmem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance</title>
+      <link>/publication/34_hiflow/</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/34_hiflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography</title>
+      <link>/publication/32_gendop/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/32_gendop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light-A-Video: Training-free Video Relighting via Progressive Light Fusion</title>
+      <link>/publication/35_light-a-video/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/35_light-a-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RelightVid: Temporal-Consistent Diffusion Model for Video Relighting</title>
+      <link>/publication/33_relightvid/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/33_relightvid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Imagine360: Immersive 360 Video Generation from Perspective Anchor</title>
