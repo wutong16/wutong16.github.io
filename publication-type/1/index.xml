@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,10 +13,106 @@
     </image>
     
     <item>
+      <title>Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis</title>
+      <link>/publication/37_streetnvs/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/37_streetnvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite Gaze Generation for Videos with Autoregressive Diffusion</title>
+      <link>/publication/38_infinite_gaze/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/38_infinite_gaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space</title>
+      <link>/publication/39_mvgrpo/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/39_mvgrpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control</title>
+      <link>/publication/42_generated_reality/</link>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/42_generated_reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniHand: A Unified Model for Diverse Controlled 4D Hand Motion Modeling</title>
+      <link>/publication/40_unihand/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/40_unihand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image2Garment: Simulation-ready Garment Generation from a Single Image</title>
+      <link>/publication/41_image2garment/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/41_image2garment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties</title>
+      <link>/publication/44_v_rgbx/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/44_v_rgbx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BulletTime: Decoupled Control of Time and Camera Pose for Video Generation</title>
+      <link>/publication/43_bullettime/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/43_bullettime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation</title>
+      <link>/publication/45_visaudio/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/45_visaudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hi3DEval: Advancing 3D Generation Evaluation with Hierarchical Validity</title>
+      <link>/publication/47_hi3deval/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/47_hi3deval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience</title>
+      <link>/publication/48_seagent/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/48_seagent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Video World Models with Long-term Spatial Memory</title>
       <link>/publication/36_spmem/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/publication/36_spmem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Vision-Language-Garment Models for Web Knowledge Garment Understanding and Generation</title>
+      <link>/publication/49_vlg/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/49_vlg/</guid>
       <description></description>
     </item>
     
@@ -49,6 +145,14 @@
       <link>/publication/33_relightvid/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/publication/33_relightvid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations</title>
+      <link>/publication/50_idarb/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/50_idarb/</guid>
       <description></description>
     </item>
     
@@ -93,7 +197,7 @@
     </item>
     
     <item>
-      <title> LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation</title>
+      <title>LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation</title>
       <link>/publication/27_layerpano3d/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/publication/27_layerpano3d/</guid>
