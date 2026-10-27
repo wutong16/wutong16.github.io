@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Tong Wu&#39;s Homepage</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wutong16.github.io/publication-type/2/</link>
+      <atom:link href="https://wutong16.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://wutong16.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://wutong16.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>SS4D: Native 4D Generative Model via Structured Spacetime Latents</title>
-      <link>/publication/46_ss4d/</link>
+      <link>https://wutong16.github.io/publication/46_ss4d/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/46_ss4d/</guid>
+      <guid>https://wutong16.github.io/publication/46_ss4d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual-friendly Aesthetic QR Code Generation using Image Style Transfer</title>
-      <link>/publication/3_underreview_qr/</link>
+      <link>https://wutong16.github.io/publication/3_underreview_qr/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/3_underreview_qr/</guid>
+      <guid>https://wutong16.github.io/publication/3_underreview_qr/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

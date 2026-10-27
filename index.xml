@@ -2,285 +2,293 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tong Wu&#39;s Homepage</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://wutong16.github.io/</link>
+      <atom:link href="https://wutong16.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Tong Wu&#39;s Homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://wutong16.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tong Wu&#39;s Homepage</title>
-      <link>/</link>
+      <link>https://wutong16.github.io/</link>
     </image>
     
     <item>
+      <title>PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory</title>
+      <link>https://wutong16.github.io/publication/51_permavid/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://wutong16.github.io/publication/51_permavid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis</title>
-      <link>/publication/37_streetnvs/</link>
+      <link>https://wutong16.github.io/publication/37_streetnvs/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/37_streetnvs/</guid>
+      <guid>https://wutong16.github.io/publication/37_streetnvs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infinite Gaze Generation for Videos with Autoregressive Diffusion</title>
-      <link>/publication/38_infinite_gaze/</link>
+      <link>https://wutong16.github.io/publication/38_infinite_gaze/</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/38_infinite_gaze/</guid>
+      <guid>https://wutong16.github.io/publication/38_infinite_gaze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space</title>
-      <link>/publication/39_mvgrpo/</link>
+      <link>https://wutong16.github.io/publication/39_mvgrpo/</link>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/39_mvgrpo/</guid>
+      <guid>https://wutong16.github.io/publication/39_mvgrpo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control</title>
-      <link>/publication/42_generated_reality/</link>
+      <link>https://wutong16.github.io/publication/42_generated_reality/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/42_generated_reality/</guid>
+      <guid>https://wutong16.github.io/publication/42_generated_reality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UniHand: A Unified Model for Diverse Controlled 4D Hand Motion Modeling</title>
-      <link>/publication/40_unihand/</link>
+      <link>https://wutong16.github.io/publication/40_unihand/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/40_unihand/</guid>
+      <guid>https://wutong16.github.io/publication/40_unihand/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image2Garment: Simulation-ready Garment Generation from a Single Image</title>
-      <link>/publication/41_image2garment/</link>
+      <link>https://wutong16.github.io/publication/41_image2garment/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/41_image2garment/</guid>
+      <guid>https://wutong16.github.io/publication/41_image2garment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties</title>
-      <link>/publication/44_v_rgbx/</link>
+      <link>https://wutong16.github.io/publication/44_v_rgbx/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/44_v_rgbx/</guid>
+      <guid>https://wutong16.github.io/publication/44_v_rgbx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BulletTime: Decoupled Control of Time and Camera Pose for Video Generation</title>
-      <link>/publication/43_bullettime/</link>
+      <link>https://wutong16.github.io/publication/43_bullettime/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/43_bullettime/</guid>
+      <guid>https://wutong16.github.io/publication/43_bullettime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation</title>
-      <link>/publication/45_visaudio/</link>
+      <link>https://wutong16.github.io/publication/45_visaudio/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/45_visaudio/</guid>
+      <guid>https://wutong16.github.io/publication/45_visaudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hi3DEval: Advancing 3D Generation Evaluation with Hierarchical Validity</title>
-      <link>/publication/47_hi3deval/</link>
+      <link>https://wutong16.github.io/publication/47_hi3deval/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/47_hi3deval/</guid>
+      <guid>https://wutong16.github.io/publication/47_hi3deval/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience</title>
-      <link>/publication/48_seagent/</link>
+      <link>https://wutong16.github.io/publication/48_seagent/</link>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/48_seagent/</guid>
+      <guid>https://wutong16.github.io/publication/48_seagent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video World Models with Long-term Spatial Memory</title>
-      <link>/publication/36_spmem/</link>
+      <link>https://wutong16.github.io/publication/36_spmem/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/36_spmem/</guid>
+      <guid>https://wutong16.github.io/publication/36_spmem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SS4D: Native 4D Generative Model via Structured Spacetime Latents</title>
-      <link>/publication/46_ss4d/</link>
+      <link>https://wutong16.github.io/publication/46_ss4d/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/46_ss4d/</guid>
+      <guid>https://wutong16.github.io/publication/46_ss4d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Vision-Language-Garment Models for Web Knowledge Garment Understanding and Generation</title>
-      <link>/publication/49_vlg/</link>
+      <link>https://wutong16.github.io/publication/49_vlg/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/49_vlg/</guid>
+      <guid>https://wutong16.github.io/publication/49_vlg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance</title>
-      <link>/publication/34_hiflow/</link>
+      <link>https://wutong16.github.io/publication/34_hiflow/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/34_hiflow/</guid>
+      <guid>https://wutong16.github.io/publication/34_hiflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography</title>
-      <link>/publication/32_gendop/</link>
+      <link>https://wutong16.github.io/publication/32_gendop/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/32_gendop/</guid>
+      <guid>https://wutong16.github.io/publication/32_gendop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light-A-Video: Training-free Video Relighting via Progressive Light Fusion</title>
-      <link>/publication/35_light-a-video/</link>
+      <link>https://wutong16.github.io/publication/35_light-a-video/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/35_light-a-video/</guid>
+      <guid>https://wutong16.github.io/publication/35_light-a-video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RelightVid: Temporal-Consistent Diffusion Model for Video Relighting</title>
-      <link>/publication/33_relightvid/</link>
+      <link>https://wutong16.github.io/publication/33_relightvid/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/33_relightvid/</guid>
+      <guid>https://wutong16.github.io/publication/33_relightvid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations</title>
-      <link>/publication/50_idarb/</link>
+      <link>https://wutong16.github.io/publication/50_idarb/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/50_idarb/</guid>
+      <guid>https://wutong16.github.io/publication/50_idarb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imagine360: Immersive 360 Video Generation from Perspective Anchor</title>
-      <link>/publication/28_imagine360/</link>
+      <link>https://wutong16.github.io/publication/28_imagine360/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/28_imagine360/</guid>
+      <guid>https://wutong16.github.io/publication/28_imagine360/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models</title>
-      <link>/publication/30_fiva/</link>
+      <link>https://wutong16.github.io/publication/30_fiva/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/30_fiva/</guid>
+      <guid>https://wutong16.github.io/publication/30_fiva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LOKI: A Comprehensive Synthetic Data Detection Benchmark using Large Multimodal Models</title>
-      <link>/publication/29_loki/</link>
+      <link>https://wutong16.github.io/publication/29_loki/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/29_loki/</guid>
+      <guid>https://wutong16.github.io/publication/29_loki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way</title>
-      <link>/publication/24_broadway/</link>
+      <link>https://wutong16.github.io/publication/24_broadway/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/24_broadway/</guid>
+      <guid>https://wutong16.github.io/publication/24_broadway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion</title>
-      <link>/publication/22_3dtopiaxl/</link>
+      <link>https://wutong16.github.io/publication/22_3dtopiaxl/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/22_3dtopiaxl/</guid>
+      <guid>https://wutong16.github.io/publication/22_3dtopiaxl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation</title>
-      <link>/publication/27_layerpano3d/</link>
+      <link>https://wutong16.github.io/publication/27_layerpano3d/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/27_layerpano3d/</guid>
+      <guid>https://wutong16.github.io/publication/27_layerpano3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images</title>
-      <link>/publication/26_taylor3d/</link>
+      <link>https://wutong16.github.io/publication/26_taylor3d/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/26_taylor3d/</guid>
+      <guid>https://wutong16.github.io/publication/26_taylor3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bootstrap3D: Improving Multi-view Diffusion Model with Synthetic Data</title>
-      <link>/publication/25_boostrap3d/</link>
+      <link>https://wutong16.github.io/publication/25_boostrap3d/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/25_boostrap3d/</guid>
+      <guid>https://wutong16.github.io/publication/25_boostrap3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MotionClone: Training-Free Motion Cloning for Controllable Video Generation</title>
-      <link>/publication/23_motionclone/</link>
+      <link>https://wutong16.github.io/publication/23_motionclone/</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/23_motionclone/</guid>
+      <guid>https://wutong16.github.io/publication/23_motionclone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Make-it-Real: Unleashing Large Multimodal Model for Painting 3D Objects with Realistic Materials</title>
-      <link>/publication/19_make_it_real/</link>
+      <link>https://wutong16.github.io/publication/19_make_it_real/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/19_make_it_real/</guid>
+      <guid>https://wutong16.github.io/publication/19_make_it_real/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation</title>
-      <link>/publication/31_omni6d/</link>
+      <link>https://wutong16.github.io/publication/31_omni6d/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/31_omni6d/</guid>
+      <guid>https://wutong16.github.io/publication/31_omni6d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance</title>
-      <link>/publication/20_comboverse/</link>
+      <link>https://wutong16.github.io/publication/20_comboverse/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/20_comboverse/</guid>
+      <guid>https://wutong16.github.io/publication/20_comboverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3DTopia: Large Text-to-3D Generation Model with Hybrid Diffusion Priors</title>
-      <link>/publication/21_3dtopia/</link>
+      <link>https://wutong16.github.io/publication/21_3dtopia/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/21_3dtopia/</guid>
+      <guid>https://wutong16.github.io/publication/21_3dtopia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation</title>
-      <link>/publication/18_gpteval3d/</link>
+      <link>https://wutong16.github.io/publication/18_gpteval3d/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/18_gpteval3d/</guid>
+      <guid>https://wutong16.github.io/publication/18_gpteval3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alpha-CLIP: A CLIP Model Focusing on Wherever You Want</title>
-      <link>/publication/17_alphaclip/</link>
+      <link>https://wutong16.github.io/publication/17_alphaclip/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/17_alphaclip/</guid>
+      <guid>https://wutong16.github.io/publication/17_alphaclip/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -302,9 +310,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>GPT4Point: A Unified Framework for Point-Language Understanding and Generation</title>
-      <link>/publication/15_gpt4point/</link>
+      <link>https://wutong16.github.io/publication/15_gpt4point/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/15_gpt4point/</guid>
+      <guid>https://wutong16.github.io/publication/15_gpt4point/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -326,49 +334,49 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Large-vocabulary 3d diffusion model with transformer</title>
-      <link>/publication/14_iclr24_difftf/</link>
+      <link>https://wutong16.github.io/publication/14_iclr24_difftf/</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/14_iclr24_difftf/</guid>
+      <guid>https://wutong16.github.io/publication/14_iclr24_difftf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HyperDreamer: Hyper-Realistic 3D Content Generation and Editing from a Single Image</title>
-      <link>/publication/13_siggraphasia2023_hyperdreamer/</link>
+      <link>https://wutong16.github.io/publication/13_siggraphasia2023_hyperdreamer/</link>
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/13_siggraphasia2023_hyperdreamer/</guid>
+      <guid>https://wutong16.github.io/publication/13_siggraphasia2023_hyperdreamer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation</title>
-      <link>/publication/11_cvpr2023_omniobject3d/</link>
+      <link>https://wutong16.github.io/publication/11_cvpr2023_omniobject3d/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/11_cvpr2023_omniobject3d/</guid>
+      <guid>https://wutong16.github.io/publication/11_cvpr2023_omniobject3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>V3Det: Vast Vocabulary Visual Detection Dataset</title>
-      <link>/publication/12_iccv2023_v3det/</link>
+      <link>https://wutong16.github.io/publication/12_iccv2023_v3det/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/12_iccv2023_v3det/</guid>
+      <guid>https://wutong16.github.io/publication/12_iccv2023_v3det/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction</title>
-      <link>/publication/10_iclr2023_voxurf/</link>
+      <link>https://wutong16.github.io/publication/10_iclr2023_voxurf/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/10_iclr2023_voxurf/</guid>
+      <guid>https://wutong16.github.io/publication/10_iclr2023_voxurf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Density-aware Chamfer Distance as a Comprehensive Metric for Point Cloud Completion</title>
-      <link>/publication/7_neurips2021_dcd/</link>
+      <link>https://wutong16.github.io/publication/7_neurips2021_dcd/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/7_neurips2021_dcd/</guid>
+      <guid>https://wutong16.github.io/publication/7_neurips2021_dcd/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -390,9 +398,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Few-Shot Object Detection via Association and DIscrimination</title>
-      <link>/publication/8_neurips2021_fadi/</link>
+      <link>https://wutong16.github.io/publication/8_neurips2021_fadi/</link>
       <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/8_neurips2021_fadi/</guid>
+      <guid>https://wutong16.github.io/publication/8_neurips2021_fadi/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -414,9 +422,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Adversarial Robustness under Long-Tailed Distribution</title>
-      <link>/publication/5_cvpr2021_adv-lt/</link>
+      <link>https://wutong16.github.io/publication/5_cvpr2021_adv-lt/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/5_cvpr2021_adv-lt/</guid>
+      <guid>https://wutong16.github.io/publication/5_cvpr2021_adv-lt/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -438,9 +446,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Towards Evaluating and Training Verifiably Robust Neural Networks</title>
-      <link>/publication/6_cvpr2021_theoratical_adv/</link>
+      <link>https://wutong16.github.io/publication/6_cvpr2021_theoratical_adv/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/6_cvpr2021_theoratical_adv/</guid>
+      <guid>https://wutong16.github.io/publication/6_cvpr2021_theoratical_adv/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -462,9 +470,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Shaping Deep Feature Space towards Gaussian Mixture for Visual Classification</title>
-      <link>/publication/9_tpami2022_gaussian/</link>
+      <link>https://wutong16.github.io/publication/9_tpami2022_gaussian/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/9_tpami2022_gaussian/</guid>
+      <guid>https://wutong16.github.io/publication/9_tpami2022_gaussian/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -486,9 +494,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets</title>
-      <link>/publication/1_eccv2020_multi-lable_long-tail/</link>
+      <link>https://wutong16.github.io/publication/1_eccv2020_multi-lable_long-tail/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/1_eccv2020_multi-lable_long-tail/</guid>
+      <guid>https://wutong16.github.io/publication/1_eccv2020_multi-lable_long-tail/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -510,9 +518,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Caption-Supervised Face Recognition: Training a State-of-the-Art Face Model without Manual Annotation</title>
-      <link>/publication/2_eccv2020_caption-supervised/</link>
+      <link>https://wutong16.github.io/publication/2_eccv2020_caption-supervised/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2_eccv2020_caption-supervised/</guid>
+      <guid>https://wutong16.github.io/publication/2_eccv2020_caption-supervised/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -534,9 +542,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Physical Adversarial Attack on Vehicle Detector in the Carla Simulator</title>
-      <link>/publication/4_arxiv2020_toyota/</link>
+      <link>https://wutong16.github.io/publication/4_arxiv2020_toyota/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/4_arxiv2020_toyota/</guid>
+      <guid>https://wutong16.github.io/publication/4_arxiv2020_toyota/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -558,9 +566,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Visual-friendly Aesthetic QR Code Generation using Image Style Transfer</title>
-      <link>/publication/3_underreview_qr/</link>
+      <link>https://wutong16.github.io/publication/3_underreview_qr/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/3_underreview_qr/</guid>
+      <guid>https://wutong16.github.io/publication/3_underreview_qr/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -582,9 +590,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://wutong16.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://wutong16.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -711,9 +719,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/admin/config.yml</link>
+      <link>https://wutong16.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/admin/config.yml</guid>
+      <guid>https://wutong16.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
